@@ -5,9 +5,9 @@ header-img: img/图片1.png  #显示在首页的背景图片
 email: 304761231@qq.com
 description: "Every failure is leading towards success."  #网站介绍
 keyword: "林深不见路，数学，计算机"   #关键词
-url: "http://zhouxinxin121.github.io"          # your host, for absolute URL
+url: "http://zhou12135.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://zhouxinxin121.github.io" # you code repository
+github_repo: "https://zhou12135.github.io" # you code repository
 
 # Sidebar settings  工具条；侧边拦；其他选项
 sidebar: true                           # whether or not using Sidebar.是否开启侧边栏.
@@ -22,8 +22,6 @@ RSS: false
 #twitter_username: qiubaiying
 
 
-
-
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty  #PermaLink是Permanent Link的缩写，意指向一个特定网络日志（WebLog，Blog）的永久固定标识符
@@ -36,8 +34,6 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
-
-
 
 
 # Markdown settings

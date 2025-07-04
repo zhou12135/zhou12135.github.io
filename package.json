@@ -1,14 +1,14 @@
 {
-    "name": "zhouxinxin121-blog",
-    "title": "zhouxinxin121 Blog",
-    "author": "zhouxinxin121 <304761231@qq.com>",
+    "name": "zhou12135-blog",
+    "title": "zhou12135 Blog",
+    "author": "zhou12135 <304761231@qq.com>",
     "version": "1.7.0",
-    "homepage": "http://zhouxinxin121.github.io",
+    "homepage": "http://zhou12135.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zhouxinxin121/zhouxinxin121.github.io"
+        "url": "https://github.com/zhou12135/zhou12135.github.io"
     },
-    "bugs": "https://github.com/zhouxinxin121/zhouxinxin121.github.io/issues",
+    "bugs": "https://github.com/zhou12135/zhou12135.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
