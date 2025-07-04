@@ -56,9 +56,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: ce01b2dd6fda0d6191e2                            #生成的clientID
   clientSecret: 3ba30845998f52f5f421fa069a0d5d34faea9b30    #生成的clientSecret
-  repo: zhouxinxin121.github.io    #仓库名称
-  owner: zhouxinxin121   #github用户名
-  admin: zhouxinxin121
+  repo: zhou12135.github.io    #仓库名称
+  owner: zhou12135   #github用户名
+  admin: zhou12135
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
