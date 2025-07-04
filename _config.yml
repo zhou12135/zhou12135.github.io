@@ -17,7 +17,7 @@ sidebar-avatar: /img/头像-简书.jpg      # use absolute URL, seeing it's used
 
 
 # SNS settings  社交网站（Social Network Site）
-RSS: true
+RSS: false
 #facebook_username:  baiying.qiu.7
 #twitter_username: qiubaiying
 #weibo_username:     username
