@@ -6,15 +6,15 @@
 
 | 我想... | 去哪 |
 |---|---|
-| 写新文章 | [_posts/](../_posts/) — 放 markdown 文件 |
-| 改页面（关于/标签/404） | [_pages/](../_pages/) |
-| 改布局结构 | [_layouts/](../_layouts/) |
-| 改复用组件（评论/统计/侧边栏） | [_includes/](../_includes/) |
-| 改自写 CSS/JS | [vendor/](../vendor/)（hux-blog.min.*） |
-| 升级第三方库 | [vendor/](../vendor/) |
-| 改站点配置 | [_config.yml](../_config.yml) |
-| 了解项目架构 | [architecture.md](./architecture.md) |
-| 本地启动/部署 | [development.md](./development.md) |
+| 写新文章 | [_posts/](./_posts/) — 放 markdown 文件 |
+| 改页面（关于/标签/404） | [_pages/](./_pages/) |
+| 改布局结构 | [_layouts/](./_layouts/) |
+| 改复用组件（评论/统计/侧边栏） | [_includes/](./_includes/) |
+| 改自写 CSS/JS | [vendor/](./vendor/)（hux-blog.min.*） |
+| 升级第三方库 | [vendor/](./vendor/) |
+| 改站点配置 | [_config.yml](./_config.yml) |
+| 了解项目架构 | [architecture.md](./docs/architecture.md) |
+| 本地启动/部署 | [development.md](./docs/development.md) |
 
 ## 技术栈
 
