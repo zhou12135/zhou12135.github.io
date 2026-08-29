@@ -1,8 +1,8 @@
-# 林深不见路的博客
+### 林深不见路的博客
 
 基于 Jekyll 的 GitHub Pages 个人博客。
 
-## 快速导航
+#### 快速导航
 
 | 我想... | 去哪 |
 |---|---|
@@ -16,7 +16,7 @@
 | 了解项目架构 | [architecture.md](./docs/architecture.md) |
 | 本地启动/部署 | [development.md](./docs/development.md) |
 
-## 技术栈
+#### 技术栈
 
 - **Jekyll** 3+（GitHub Pages 原生支持）
 - **Bootstrap 3** + jQuery 3（布局与交互）
@@ -24,7 +24,7 @@
 - **PWA**（Service Worker + manifest，离线可访问）
 - **Google Analytics / 百度统计**（站点分析，可配置开关）
 
-## 目录速览
+#### 目录速览
 
 ```
 zhou12135.github.io/
