@@ -5,7 +5,7 @@ _site/
 
 # Bundler
 .bundle/
-vendor/
+vendor/bundle/
 
 # Node (保留 package.json 但忽略 lock 文件与本地 node_modules)
 node_modules/
