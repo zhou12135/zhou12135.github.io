@@ -40,3 +40,18 @@
 |  📁 目录  |     _site      | 一旦 Jekyll 完成转换，就会将生成的页面放在这里（默认）。最好将这个目录放进你的 .gitignore 文件中。 |
 |  📄 文件  |   tags.html    |                                                              |
 
+
+基于 Jekyll 的 GitHub Pages 博客站点（Hux Blog 模板）
+Jekyll 静态博客
+不改 Jekyll 约定（ _layouts 、 _includes 、 _posts 、 _config.yml 等目录/文件名）
+
+先说明一个关键约束，再给方案。Jekyll 对目录命名有强制约定，不能完全自由改名。
+
+## Jekyll 硬约束（无法绕过）
+
+| 目录 | 约定 | 能否改名 |
+|---|---|---|
+| `_layouts/` `_includes/` `_posts/` `_config.yml` | 下划线前缀，Jekyll 特殊处理 | ❌ 不能 |
+| `index.html` `404.html` | 必须在根目录 | ❌ 不能 |
+| `about.html` `tags.html` `offline.html` | 可移到 `_pages/`，但需配置 + 每个加 `permalink` | ⚠ 可以但有成本 |
+| `css/` `js/` `fonts/` `img/` `pwa/` | 静态资源目录，Jekyll 原样复制 | ✅ 可以 |
